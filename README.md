@@ -23,7 +23,7 @@ Django application, where an user can upload an excel file with addresses column
 
 - update GOOGLE_API_KEY on geoUpdater/google_api_config.py on line 4
 
-    - to get API KEY , (click here) [https://developers.google.com/maps/documentation/geocoding/get-api-key?hl=en_US]
+    - to get API KEY , [click here] (https://developers.google.com/maps/documentation/geocoding/get-api-key?hl=en_US)
 
 - runserver 
 
